@@ -10,6 +10,6 @@ django-filter==1.0.1
 djangorestframework==3.5.3
 # Incase psycopg2 fails
 # pip install http://initd.org/psycopg/upload/psycopg2-2.7.3.1.dev0/psycopg2-2.7.3.1.dev0-cp36-cp36m-manylinux1_x86_64.whl
- pyscopy2 --upgrade
+# pyscopy2 --upgrade
 
 
