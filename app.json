@@ -1,0 +1,8 @@
+{
+  "name": "Bust api",
+  "description": "Api for the BusT",
+  "image": "heroku/python",
+  "repository": "https://github.com/alsong/bust",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
