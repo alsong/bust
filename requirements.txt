@@ -5,7 +5,7 @@ uritemplate==3.0.0
 whitenoise==3.2.2
 dj-database-url==0.4.1
 psycopg2==2.7.1
-Django==1.10.4
+Django==1.11.29
 django-filter==1.0.1
 djangorestframework==3.5.3
 # Incase psycopg2 fails
